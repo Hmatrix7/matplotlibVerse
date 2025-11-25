@@ -46,5 +46,4 @@ Welcome to my **7-day Matplotlib learning journey**! This repository contains al
 
 ---
 
-## 📁 **Repository Structure**
 
